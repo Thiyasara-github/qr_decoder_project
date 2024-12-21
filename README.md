@@ -79,6 +79,8 @@ qr-code-decoder-web/
 ---
 
 ## 📸 Preview
+Home Page
+![image](https://github.com/user-attachments/assets/f8783e99-d010-47a1-a396-515946039018)
 Initial Interface
 ![image](https://github.com/user-attachments/assets/a41f3601-c58b-478a-9788-3f6405a7eb32)
 Decoding Result
