@@ -70,7 +70,7 @@ Welcome to the **QR Code Decoder Web Application**! This project allows users to
 
 ```plaintext
 qr-code-decoder-web/
-│
+│__ Home.html
 ├── qr_decoder.py         # QR Code Decoder class
 ├── app.py                # Flask backend
 └── templates/
